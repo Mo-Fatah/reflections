@@ -20,3 +20,6 @@ How might using version control make you more confident to make changes that cou
 
 What happens when you initialize a repository? Why do you need to do it? 
 git statrs to track my file .
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+it looks loke a intermediary stage between commititng and working directory
